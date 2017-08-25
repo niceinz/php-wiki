@@ -1,4 +1,6 @@
 # php-wiki
+*Here you'll finde a few code snippets which I found in my time of developing smaller web-projects.*
+
 
 ## Database Stuff
 
